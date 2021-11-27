@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/createProfileFragment"
-        android:name="com.example.ftibud2.friendPackage.CreateProfileFragment"
+        android:name="com.example.ftibud2.UserPackage.CreateProfileFragment"
         android:label="fragment_create_profile2"
         tools:layout="@layout/fragment_create_profile" />
     <fragment
@@ -18,5 +18,13 @@
         <action
             android:id="@+id/action_homeFragment_to_createProfileFragment"
             app:destination="@id/createProfileFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_peopleListFragment"
+            app:destination="@id/peopleListFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/peopleListFragment"
+        android:name="com.example.ftibud2.friendPackage.PeopleListFragment"
+        android:label="fragment_people_list"
+        tools:layout="@layout/fragment_people_list" />
 </navigation>

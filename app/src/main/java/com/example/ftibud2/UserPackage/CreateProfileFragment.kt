@@ -1,4 +1,4 @@
-package com.example.ftibud2.friendPackage
+package com.example.ftibud2.UserPackage
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

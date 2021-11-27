@@ -35,6 +35,10 @@ class HomeFragment : Fragment() {
         gob.setOnClickListener {
             view.findNavController().navigate(R.id.action_homeFragment_to_createProfileFragment)
         }
+        val gob2 : Button=view.findViewById(R.id.gb2)
+        gob2.setOnClickListener {
+            view.findNavController().navigate(R.id.action_homeFragment_to_peopleListFragment)
+        }
     }
 
 

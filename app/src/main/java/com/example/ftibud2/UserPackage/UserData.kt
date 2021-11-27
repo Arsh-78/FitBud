@@ -1,6 +1,4 @@
-package com.example.ftibud2.friendPackage
-
-import java.sql.Time
+package com.example.ftibud2.UserPackage
 
 data class UserData(val name: String? = null,
                     val email: String? = null,
