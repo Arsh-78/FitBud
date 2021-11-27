@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560274646952",
+    "project_id": "ftibud2",
+    "storage_bucket": "ftibud2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560274646952:android:dc3ffb743f499b2c1b9f9d",
+        "android_client_info": {
+          "package_name": "com.example.ftibud2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560274646952-8kd968r0v5m2ik6i64kgqb5i8gouahip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ftibud2",
+            "certificate_hash": "f38b4721ea82ce433c53785b7ca5fa764d3be6b8"
+          }
+        },
+        {
+          "client_id": "560274646952-7g90urd0gpjhm8pupld4c6i6h81407p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYft9kjOb3_bK8syjxpKhOS37mo9iIj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560274646952-7g90urd0gpjhm8pupld4c6i6h81407p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
